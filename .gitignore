@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Large Data Files
+data/*.csv
+data/*.xlsx
+data/uploads/
